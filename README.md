@@ -1,6 +1,8 @@
 # Flash Cards
 
-This is a solution to the [Flash Cards project](https://roadmap.sh/projects/flashcards) on [roadmap.sh](https://roadmap.sh/). 
+This is a solution to the [Flash Cards project](https://roadmap.sh/projects/flashcards) on [roadmap.sh](https://roadmap.sh/).
+
+PROJECT URL: https://roadmap.sh/projects/flash-cards
 
 ## Overview
 
